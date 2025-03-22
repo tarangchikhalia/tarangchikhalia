@@ -1,8 +1,6 @@
-# 👋 Hello
+# Hi there 👋
 
-My name is Tarang. I am from 🇮🇳 living in 🇨🇦.  
-
-I am a Software Engineer 👨‍💻.  
+I am Tarang Chikhalia, a passionate Software Engineer, System Designer, and lifelong learner based in Ottawa, Canada. Beyond coding, I am a stargazer and cosmology enthusiast, loves camping and hiking and play video games.
 
 <!--
 **tarangchikhalia/tarangchikhalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
