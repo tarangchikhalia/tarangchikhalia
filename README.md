@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Tarang Chikhalia, a passionate Software Engineer, System Designer, and lifelong learner based in Ottawa, Canada. Beyond coding, I am a stargazer and cosmology enthusiast, loves camping and hiking and play video games.
+I am Tarang Chikhalia, a passionate Software Engineer and lifelong learner based in Ottawa, Canada. Beyond coding, I am cosmology enthusiast, loves camping and hiking and play video games.
 
 <!--
 **tarangchikhalia/tarangchikhalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
