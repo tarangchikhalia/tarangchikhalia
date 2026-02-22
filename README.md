@@ -1,27 +1,25 @@
 # Hi there 👋
 
-I am Tarang Chikhalia, a passionate Software Engineer and lifelong learner based in Ottawa, Canada.
+I am a software engineer with a strong interest in building reliable systems and understanding how things work from first principles.
+
+I enjoy:
+
+- Designing and building software products
+- Reading books
+- Hiking, camping and stargazing.
+- Amateur astronomer.
 
 I'm currently focused on:
 
-- Designing smarter systems using ML/AI
-- Implementing the latest Generative AI technologies
-- Integrating AI/LLMs into personal workflows
-- Exploring new ways to solve problems using assisted AI
+- Deepening my understanding of AI systems.
+- Exporing agent based architecture
+- Building small, useful products that solve my problems.
 
-Beyond the screen, I’m an avid hiker, camper, and stargazer 🌌. I find deep meaning in conversations about Cosmology, and the bigger picture of life.
+## Projects
 
-<!--
-**tarangchikhalia/tarangchikhalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. 🔑 [mypwd](https://github.com/tarangchikhalia/mypwd) - Terminal based local password manager
+2. 🧠 [quizme](https://github.com/tarangchikhalia/quizme) - AI quiz generator on any topic.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Email: tarang.chikhalia@gmail.com
