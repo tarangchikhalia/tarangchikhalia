@@ -17,8 +17,9 @@ I'm currently focused on:
 
 ## Projects
 
-1. 🔑 [mypwd](https://github.com/tarangchikhalia/mypwd) - Terminal based local password manager
-2. 🧠 [quizme](https://github.com/tarangchikhalia/quizme) - AI quiz generator on any topic.
+1. 🧑‍💻 [codeseek](https://github.com/tarangchikhalia/codeseek) - Semantic code search tool (Backend only)
+2. 🔑 [mypwd](https://github.com/tarangchikhalia/mypwd) - Terminal based local password manager
+3. 🧠 [quizme](https://github.com/tarangchikhalia/quizme) - AI quiz generator on any topic.
 
 ## Contact
 
