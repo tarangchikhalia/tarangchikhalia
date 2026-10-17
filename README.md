@@ -1,47 +1,45 @@
-# Hi there 👋
+# Hi, I'm Tarang
 
-I'm Tarang — a software engineer building AI-powered products, scalable systems, and developer tools.
+**Software Engineer | AI Security & Platform Engineering | Distributed Systems**
 
-Currently focused on turning ideas into software businesses while continuously improving my craft in system design, architecture, and AI engineering.
+I design and build software systems with a focus on reliability, scalability, security, and maintainability.
 
-## Building
+My current engineering interests are centered on **building and securing production AI infrastructure**.
 
-* AI-powered products
-* LLM applications and AI agents
-* Scalable backend systems
+### Areas of Focus
 
-## Exploring
+**AI Security**
+- Agent identity, authentication, and authorization
+- MCP security and secure tool execution
+- Credential isolation and multi-tenant systems
 
-* System Design
-* Distributed Systems
-* AI Engineering
-* Machine Learning
-* Cloud Infrastructure
-* Product Development
+**AI Platform Engineering**
+- LLM inference and model serving
+- AI gateways and agent runtimes
+- Observability, evaluation, and production infrastructure
 
-## Tech
+**Distributed Systems**
+- Concurrency and networking
+- Fault tolerance and high availability
+- Performance engineering and cloud-native systems
 
-```text
-Languages      Python • TypeScript
-Frontend       React
-Backend        FastAPI
-AI             FastMCP • Google ADK 
-Databases      PostgreSQL • MilvusDB
-Infrastructure Docker • GitHub Actions
-Editor         Neovim
-```
+### Currently Building
 
-## Interests Beyond Code
+**AI Agent Authorization & Security Platform**
 
-* 🔭 Astronomy
-* ⚛️ Physics
-* 🧑‍💻 Entrepreneurship
-* 📚 Long-form learning
+A project exploring identity-aware authorization, policy enforcement, and security controls for AI agents and MCP-based systems.
 
-### Projects
+Development is incremental, with a focus on practical implementations, security testing, and documented engineering tradeoffs.
 
-* 🍥 [System Design Prep](https://github.com/tarangchikhalia/system-design-prep) - Local first AI companion app to learn system design
+### Engineering Writeups
 
----
+I document what I build and learn, including:
 
-Consistency Triumphs.
+- System architecture and design decisions
+- Security experiments and threat modeling
+- Performance benchmarks
+- Lessons from building production-oriented systems
+
+### Connect
+
+[LinkedIn](https://ca.linkedin.com/in/tarangchikhalia) · [Website](https://tarangchikhalia.com)
